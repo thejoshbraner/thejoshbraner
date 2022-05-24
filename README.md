@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @komisho
-- 👀 I’m interested in learning and eventually switching careers to some form of software engineering/data engineering.
-- 🌱 I’m currently learning Python
+- 👀 I’m learning HTML/CSS/JS with the intent of becoming a front-end dev by the end of 2022.
+- 🌱 I’m currently learning HTML, CSS, and JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
