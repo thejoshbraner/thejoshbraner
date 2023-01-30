@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @komisho
-- 👀 I’m learning HTML/CSS/JS with the intent of becoming a front-end dev by the end of 2022.
-- 🌱 I’m currently learning HTML, CSS, and JS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey there! I'm Josh!
 
-<!---
-komisho/komisho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring Front-End / React / React Native developer in the San Antonio, TX area!
+
+I am currently working on Foodie, an app all about keeping track of all those new places to eat you kept stored in a note and forgot about.
+
+I'm constantly learning! As of 2/13/2023 I will graduate from NuCamp's Front-End coding bootcamp with honors.
